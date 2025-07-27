@@ -1,4 +1,3 @@
-# DATA_SCIENCE
 # 🛡️ Phishing Website Prediction Model
 
 This project uses **Machine Learning** and **Natural Language Processing (NLP)** techniques to detect **phishing websites** based on URL analysis. It aims to help users stay protected from cyber threats by enabling real-time and automated phishing detection.
